@@ -595,7 +595,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON \
     DeviceInfo \
     ImsRcsService \
-    ModemTestMode \
     QtiTelephony \
     QtiTelephonyService \
     datastatusnotification \
